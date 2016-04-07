@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/smougenot/i2cScanner.svg?branch=master)](https://travis-ci.org/smougenot/i2cScanner)
+
 # i2cScanner
 Arduino I2C bus scanner lib
 
